@@ -1,6 +1,6 @@
-# 🧠 RISC-VIM 64-bit Processor
+# 🧠 RISC-VIM 32-bit Processor
 
-A custom-designed **RISC-VIM 64-bit pipelined processor**, developed to explore the functionality of RISC-V architecture using **Verilog/SystemVerilog**, with simulation and visualization tools.
+A custom-designed **RISC-VIM 32-bit pipelined processor**, developed to explore the functionality of RISC-V architecture using **Verilog/SystemVerilog**, with simulation and visualization tools.
 
 ---
 
@@ -8,7 +8,7 @@ A custom-designed **RISC-VIM 64-bit pipelined processor**, developed to explore 
 
 ![Processor Block Diagram](images/block_diagram.png)
 
-This project simulates a 64-bit RISC-V processor with:
+This project simulates a 32-bit RISC-V processor with:
 
 - ✅ 5-Stage Pipeline (IF, ID, EX, MEM, WB)
 - ✅ ALU for arithmetic/logical operations
@@ -52,7 +52,7 @@ This project simulates a 64-bit RISC-V processor with:
 
 ## 💡 Learning Support
 
-- Used **RARS** to write and verify **RISC-V64 assembly**
+- Used **RARS** to write and verify **RISC-V32 assembly**
 - Used **Ripes** to understand pipeline behavior visually before RTL design
 - Ran simulations on **Cadence tools** for waveform-level analysis
 
