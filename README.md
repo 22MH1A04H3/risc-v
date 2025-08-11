@@ -6,7 +6,7 @@ A custom-designed **RISC-VIM 32-bit pipelined processor**, developed to explore 
 
 ## 📸 Project Overview
 
-![Processor Block Diagram]()
+
 This project simulates a 32-bit RISC-V processor with:
 
 - ✅ 5-Stage Pipeline (IF, ID, EX, MEM, WB)
