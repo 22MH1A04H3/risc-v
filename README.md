@@ -59,9 +59,3 @@ This project simulates a 32-bit RISC-V processor with:
 
 ## 📦 Getting Started
 
-```bash
-# Clone repository
-git clone https://github.com/yourname/riscvim-64bit.git
-cd riscvim-64bit
-
-# Run Simulation (example using
